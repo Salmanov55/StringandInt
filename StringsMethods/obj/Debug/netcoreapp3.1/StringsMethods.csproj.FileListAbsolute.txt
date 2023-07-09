@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\bin\Debug\netcoreapp3.1\StringsMethods.exe
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\bin\Debug\netcoreapp3.1\StringsMethods.deps.json
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\bin\Debug\netcoreapp3.1\StringsMethods.runtimeconfig.json
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\bin\Debug\netcoreapp3.1\StringsMethods.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\bin\Debug\netcoreapp3.1\StringsMethods.dll
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\bin\Debug\netcoreapp3.1\StringsMethods.pdb
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.dll
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.pdb
+C:\Users\Aydan\Desktop\StringsMethods\StringsMethods\obj\Debug\netcoreapp3.1\StringsMethods.genruntimeconfig.cache
